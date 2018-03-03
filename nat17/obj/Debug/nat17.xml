@@ -1,0 +1,396 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+nat17
+</name>
+</assembly>
+<members>
+<member name="T:nat17.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:nat17.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:nat17.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.classDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.dayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.header_scheduleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.scheduleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.studentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.subjectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.teacherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.userDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_scheduleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_studentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_subjectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findTeacherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findStudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findClassDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findUnsignedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.classRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.dayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.header_scheduleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.scheduleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.studentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.subjectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.teacherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.userRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_scheduleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_studentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_subjectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findTeacherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findStudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findClassRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findUnsignedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.classRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.dayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.header_scheduleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.scheduleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.studentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.subjectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.teacherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.userRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_scheduleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_studentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.view_subjectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findTeacherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findStudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findClassRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSet.findUnsignedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.classTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.dayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.header_scheduleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.scheduleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.studentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.subjectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.teacherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.userTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.view_scheduleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.view_studentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.view_subjectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.findTeacherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.findStudentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.findClassTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.findUnsignedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(nat17.jaduwalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(nat17.jaduwalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(nat17.jaduwalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.UpdateAll(nat17.jaduwalDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:nat17.jaduwalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
